@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   <p align="left">
-  I am a Mern stack developer.As a person, I can work for a long time at a glance.Eager to gain more JS skills as Nextjs as a Mern stack developer
+  I am a Mern stack developer. As a person, I can work for a long time at a glance. Eager to gain more JS skills like Nextjs as a Mern stack developer
   </p>
 </div>
 
